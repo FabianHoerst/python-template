@@ -5,7 +5,8 @@
 
 
 # python-template
-Python Template with some initial setups for code style and linting, as well as pre-commit checks
+Python Template with some initial setups for code style and linting, as well as pre-commit checks. Flake8 is deactivated by default.
+
 
 ## Setup
 1.) Install all requirements initially from requirements file: `pip install -r requirements.txt`
