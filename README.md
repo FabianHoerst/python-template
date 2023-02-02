@@ -17,3 +17,6 @@ Python Template with some initial setups for code style and linting, as well as 
 
 ## Setup pre commits
 1.) Install with: `pre-commit install`
+
+## Setup flake8 reports and badges
+Run `make generate_badge` for generating report and badge. For help, see `make`. For checking before commiting, run `make check_all`.
