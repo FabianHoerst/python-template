@@ -8,6 +8,11 @@
 Python Template with some initial setups for code style and linting, as well as pre-commit checks
 
 ## Setup
-1.) Install all requirements initially from requirements file
+1.) Install all requirements initially from requirements file: `pip install -r requirements.txt`
 
-2.) Change Size badge by adjusting repo path from badge
+2.) Change Size badge by adjusting repo path from badge: `https://img.shields.io/github/repo-size/FabianHoerst/python-template`to `https://img.shields.io/github/repo-size/YourName/RepoName`
+
+3.) Exchange Python badge with your version
+
+## Setup pre commits
+1.) Install with: `pre-commit install`
